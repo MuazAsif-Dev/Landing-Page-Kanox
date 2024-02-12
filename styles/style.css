@@ -250,7 +250,7 @@ body {
 }
 
 .about-img-container {
-  background: url("../img/about-1.webp"), url("../img/about-2.webp");
+  background: url("../img/about-2.webp"), url("../img/about-1.webp");
 
   background-repeat: no-repeat, no-repeat;
   background-position: 75% 10%, 60% 70%;
