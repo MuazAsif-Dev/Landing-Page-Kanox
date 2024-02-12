@@ -39,7 +39,7 @@ body {
 .bg-container {
   background-color: var(--bg-header-section);
 
-  background-image: url(../img/overlay_1.webp), url(../img/overlay_2.webp);
+  background-image: url("../img/overlay_1.webp"), url("../img/overlay_2.webp");
 
   background-repeat: no-repeat, no-repeat;
   background-position: 0% 100%, 100% 0%;
@@ -250,7 +250,7 @@ body {
 }
 
 .about-img-container {
-  background: url(../img/about-1.webp), url(../img/about-2.webp);
+  background: url("../img/about-1.webp"), url("../img/about-2.webp");
 
   background-repeat: no-repeat, no-repeat;
   background-position: 75% 10%, 60% 70%;
@@ -900,7 +900,7 @@ body {
     width: 100%;
     margin-bottom: 1em;
 
-    background: url(../img/about-1.webp);
+    background: url("../img/about-1.webp");
 
     background-repeat: no-repeat;
     background-position: center;
